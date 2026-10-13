@@ -104,4 +104,4 @@ TZ = ZoneInfo("America/Sao_Paulo")  # fuso dos horários nos relatórios
 ```
 ---
 
-Feito por **henriquwe1133** · Discord: `mercurythebest`
+Feito por **henriquew1133** · Discord: `mercurythebest`
