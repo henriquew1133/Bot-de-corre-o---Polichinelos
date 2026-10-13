@@ -9,6 +9,8 @@
 ![Components V2](https://img.shields.io/badge/Components-V2-2ECC71?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-ativo-success?style=for-the-badge)
 
+[![Baixar](https://img.shields.io/badge/⬇_Baixar_o_bot-.zip-2ECC71?style=for-the-badge)](https://github.com/henriquew1133/Bot-para-corrigir-polichinelos/releases/latest/download/polichinelo-bot.zip)
+
 </div>
 
 ---
