@@ -101,3 +101,5 @@ LOCK_SECONDS = 5         # tempo de bloqueio ao errar
 TZ = ZoneInfo("America/Sao_Paulo")  # fuso dos horários nos relatórios
 ```
 ---
+
+Feito por **henriquwe1133** · Discord: `mercurythebest`
